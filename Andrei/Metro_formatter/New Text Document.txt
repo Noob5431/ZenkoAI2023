@@ -1,0 +1,7 @@
+LU Monday
+MA Tuesday
+ME Wednesday
+JE Thursday
+VE Friday
+SA Saturday
+DI Sunday

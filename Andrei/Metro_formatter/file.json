@@ -1,0 +1,20 @@
+{
+    "number": "safsa",
+    "start": "aswt",
+    "end": "safgas",
+    "departures": {
+        "friday": "ceva",
+        "saturday": "asga",
+        "sunday": "safsa"
+    },
+    "schedules": [
+        {
+            "day": "thursday",
+            "details": "dasgaes"
+        },
+        {
+            "day": "monday",
+            "details": "dsafsa"
+        }
+    ]
+}
