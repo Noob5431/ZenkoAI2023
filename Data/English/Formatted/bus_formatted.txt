@@ -1,0 +1,127 @@
+The line is: 101
+In the direction: Cormondreche
+Starting from: September 21 5:50 p.m.
+Ending on: September 24
+Details: Due to the Harvest Festival, the Croix-du-Marché stop towards Cormondrèche is canceled from Thursday, September 21, 5:50 p.m. to Sunday, September 24, last trip. Meet at the Ecluse stop. Thank you for your understanding and have a good trip on our lines.
+The line is: 101
+In the direction: Marine
+Starting from: September 21 5:50 p.m.
+Ending on: September 24
+Details: Due to the Harvest Festival, the Croix-du-Marché stop towards Marin is canceled from Thursday, September 21, 5:50 p.m. to Sunday, September 24, last trip. Go to the Ecluse stop to take line 106 to Gare (Nord) then Fun'ambule line 110 to Université to transfer to line 101. Thank you for your understanding and have a good trip on our lines.
+The line is: 101
+In the direction: Cormondreche
+Starting from: September 21 5:50 p.m.
+Ending on: September 24
+Details: Due to the Harvest Festival, the Place Pury stop towards Cormondrèche is moved to Thursday from 5:50 p.m. then removed from Friday. From Thursday 5:50 p.m., stop moved: departures from Place Pury, quai C. From Friday first race, stop removed: go to the Oriette stop, platform B (on rue de la Balance) to take line 106 to Ecluse then transfer to line 101.
+The line is: 101
+In the direction: Marine
+Starting from: September 21 5:50 p.m.
+Ending on: September 24
+Details: Due to the Harvest Festival, the Place Pury stop towards Marin is moved to Thursday from 5:50 p.m. then removed from Friday. From Thursday 5:50 p.m., stop moved: departures from Place Pury, quai G. From Friday first race, stop removed: go to the Oriette stop, platform B (on rue de la Balance) to take line 106 to Gare (North) then Fun'ambule line 110 to Université to transship to line 101. During the night, the Fun'ambule only runs until 1:00 a.m. Between 1 a.m. and 4 a.m., you should therefore walk to the Université stop.
+The line is: 102
+In the direction: Serrieres
+Starting from: September 22 12:00 a.m.
+Ending on: September 24
+Details: Due to the Harvest Festival, the Place Pury stop towards Serrières is canceled from Friday September 22, first race to Sunday September 24, last race. Meet at the Oriette stop, platform A (30m from the usual stop).
+The line is: 102
+In the direction: Temple of the Valangines
+Starting from: September 22 12:00 a.m.
+Ending on: September 24
+Details: Due to the Harvest Festival, the Place Pury stop towards Temple des Valangines is canceled from Friday September 22, first race to Sunday September 24, last race. Go to the Oriette stop, platform B (on rue de la Balance) to take line 106 to Terreaux Muséum then transfer to line 102.
+The line is: 106
+In the direction: Hermitage Valley
+Starting from: September 22 12:00 a.m.
+Ending on: September 24
+Details: Due to the Harvest Festival, the Place Pury stop towards Vallon de l'Ermitage is canceled from Friday September 22, first race to Sunday September 24, last race. Meet at the Oriette stop, platform B (on rue de la Balance). Thank you for your understanding and have a good trip on our lines.
+The line is: 107
+In the direction: Hauterive
+Starting from: September 22 12:00 a.m.
+Ending on: September 24
+Details: Due to the Harvest Festival, stop at Place Pury towards Hauterive | Marin is deleted from Friday September 22 first race to Sunday September 24 last race. Go to the Oriette stop, platform B (on rue de la Balance) to take line 106 to Terreaux Muséum then transfer to line 107.
+The line is: 109
+In the direction: Trois-Chenes
+Starting from: September 22 12:00 a.m.
+Ending on: September 24
+Details: Due to the Harvest Festival, the Place Pury stop towards Trois-Chênes is canceled from Friday September 22, first race to Sunday September 24, last race. Go to the Oriette stop, platform B (on rue de la Balance) to take line 106 to Terreaux Muséum then transfer to line 109. 
+The line is: 121
+In the direction: Swimming Pools
+Starting from: September 22 12:00 a.m.
+Ending on: September 24
+Details: Due to the Harvest Festival, the Place Pury stop towards Piscines is canceled from Friday September 22, first race to Sunday September 24, last race.  Go to the Oriette stop, platform B (on rue de la Balance) to take line 106 to Gare (Nord) then Fun'ambule ine 110 to University to transfer to line 121.
+The line is: 107
+In the direction: Marine
+Starting from: September 22 12:00 a.m.
+Ending on: September 24
+Details: Due to the Harvest Festival, stop at Place Pury towards Hauterive | Marin is deleted from Friday September 22 first race to Sunday September 24 last race. Go to the Oriette stop, platform B (on rue de la Balance) to take line 106 to Terreaux Muséum then transfer to line 107.
+The line is: 421
+In the direction: Savagnier
+Starting from: September 22 12:00 a.m.
+Ending on: September 24
+Details: Due to the Harvest Festival, stop at Place
+The line is: Pury towards Savagnier | Cernier is deleted from Friday September 22 first race to Sunday September 24 last race. Meet at the Oriette stop, platform A (on rue de la Promenade-Noire).
+In the direction: 421
+Starting from: Cernier September 22
+Ending on: 12:00 a.m.
+Details: September 24
+The line is: Due to the Harvest Festival, stop at Place
+In the direction: Pury towards Savagnier | Cernier is deleted from Friday September 22 first race to Sunday September 24 last race. Meet at the Oriette stop, platform A (on rue de la Promenade-Noire).
+Starting from: 422 Villiers
+Ending on: September 22
+Details: 12:00 a.m.
+The line is: September 24
+In the direction: Due to the Harvest Festival, the Place Pury stop towards Villiers is canceled from Friday September 22, first race to Sunday September 24, last race. Meet at the Oriette stop, platform A (on rue de la Promenade-Noire).
+Starting from: 102 Serrieres
+Ending on: September 22
+Details: 12:00 a.m.
+The line is: September 24
+In the direction: Due to the Harvest Festival, the Terreaux Muséum stop towards Serrières is canceled from Friday September 22, first race to Sunday September 24, last race. Go to the Terreaux Muséum stop to take line 106 to Oriette to transfer to line 102 departure from platform A (30m from the usual stop).
+Starting from: 101 Station (North)
+Ending on: September 23
+Details: 12:00 a.m.
+The line is: September 25
+In the direction: Due to the Harvest Festival, the St-Honoré stop towards Gare (North) is canceled from Friday September 22, first race to Sunday September 24, last race. Meet at the Terreaux Muséum stop.
+Starting from: 102 Station (North)
+Ending on: September 23
+Details: 12:00 a.m.
+The line is: September 25
+In the direction: Due to the Harvest Festival, the St-Honoré stop towards Gare (North) is canceled from Friday September 22, first race to Sunday September 24, last race. Meet at the Terreaux Muséum stop.
+Starting from: 106 Station (North)
+Ending on: September 23
+Details: 12:00 a.m.
+The line is: September 25
+In the direction: Due to the Harvest Festival, the St-Honoré stop towards Gare (North) is canceled from Friday September 22, first race to Sunday September 24, last race. Meet at the Terreaux Muséum stop.
+Starting from: 107 Station (North)
+Ending on: September 23
+Details: 12:00 a.m.
+The line is: September 25
+In the direction: Due to the Harvest Festival, the St-Honoré stop towards Gare (North) is canceled from Friday September 22, first race to Sunday September 24, last race. Meet at the Terreaux Muséum stop.
+Starting from: 109 Station (North)
+Ending on: September 23
+Details: 12:00 a.m.
+The line is: September 25
+In the direction: Due to the Harvest Festival, the St-Honoré stop towards Gare (North) is canceled from Friday September 22, first race to Sunday September 24, last race. Meet at the Terreaux Muséum stop.
+Starting from: 421 Station (North)
+Ending on: September 23
+Details: 12:00 a.m.
+The line is: September 25
+In the direction: Due to the Harvest Festival, the St-Honoré stop towards Gare (North) is canceled from Friday September 22, first race to Sunday September 24, last race. Meet at the Terreaux Muséum stop.
+Starting from: 101 Cormondreche
+Ending on: September 23
+Details: 12:00 a.m.
+The line is: September 25
+In the direction: Due to the Harvest Festival, the Numa-Droz stop towards Cormondrèche is canceled from Friday September 22, first race to Sunday September 24, last race. Meet at the Terreaux Muséum stop.
+Starting from: 101 Cormondreche
+Ending on: September 23
+Details: 12:00 a.m.
+The line is: September 25
+In the direction: Due to the Harvest Festival, the shutdown Jardin Anglais direction Cormondrèche is canceled from Friday September 22 first race to last Sunday September 24 race. Go to the Université stop to take Fun'ambule line 110 to the station then transfer to line 107 towards Terreaux Muséum which is merged with line 101 towards Cormondrèche.
+Starting from: 101 Marine and Swimming Pools
+Ending on: September 22
+Details: 12:00 a.m.
+The line is: September 24
+In the direction: Due to the Harvest Festival, the Poste direction Marin stop is canceled from Friday, September 22, first race to Sunday, September 24, last race. Meet at the University stop.
+Starting from: 121 Marine and Swimming Pools
+Ending on: September 22
+Details: 12:00 a.m.
+The line is: September 24
+In the direction: Due to the Harvest Festival, the Poste direction Marin stop is canceled from Friday, September 22, first race to Sunday, September 24, last race. Meet at the University stop.
