@@ -38,7 +38,8 @@ def get_Chat_response(text):
 
         # pretty print last ouput tokens from bot
         # return tokenizer.decode(chat_history_ids[:, bot_input_ids.shape[-1]:][0], skip_special_tokens=True)
-        return "https://www.simplilearn.com/ice9/free_resources_article_thumb/Advantages_and_Disadvantages_of_artificial_intelligence.jpg"
+        # return "https://www.simplilearn.com/ice9/free_resources_article_thumb/Advantages_and_Disadvantages_of_artificial_intelligence.jpg"
+        return "&origin=44.63041983537131, 25.69645319380525,&destination=44.467988484086035, 26.007254223811824"
 
 
 if __name__ == '__main__':

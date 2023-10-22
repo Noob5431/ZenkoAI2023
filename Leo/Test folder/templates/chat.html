@@ -57,10 +57,24 @@
 					var rawText = $("#text").val();
 					
 
-					var userHtml = '<div class="d-flex justify-content-end mb-4"><div class="msg_cotainer_send">' + rawText + '<span class="msg_time_send">'+ str_time + '</span></div><div class="img_cont_msg"><img src="https://i.ibb.co/d5b84Xw/Untitled-design.png" class="rounded-circle user_img_msg"></div></div>';
+					var userHtml = '<div class="d-flex justify-content-end mb-4">' +
+            						'<div class="msg_cotainer_send_container">' +
+									'<div class="msg_time_send">' + str_time + '</div>' +
+            						'<div class="msg_cotainer_send">' + rawText + '</div>' +
+            						'</div>' +
+            						'<div class="img_cont_msg"><img src="https://i.ibb.co/d5b84Xw/Untitled-design.png" class="rounded-circle user_img_msg"></div>' +
+            						'</div>';
+
+					var loadingHtml = '<div class="d-flex justify-content-start mb-4 loading-container">' +
+            						'<div class="img_cont_msg"><img src="{{ url_for('static', filename='zenko.jpg')}}" class="rounded-circle user_img_msg"></div>' +
+            						'<div class="msg_cotainer loading-message">' +
+            						'<img src="{{ url_for('static', filename='loading.webp')}}" alt="Loading..." class="loading-animation">'+
+            						'</div>' +
+            						'</div>';
 					
 					$("#text").val("");
 					$("#messageFormeight").append(userHtml);
+					$("#messageFormeight").append($.parseHTML(loadingHtml));
                     $("#messageFormeight").scrollTop($("#messageFormeight")[0].scrollHeight);
                     
 
@@ -71,14 +85,50 @@
 						type: "POST",
 						url: "/get",
 					}).done(function(data) {
+						$(".loading-container").remove();
 						if (isImageURL(data)) {
-							var imageHtml = '<div class="d-flex justify-content-start mb-4"><div class="img_cont_msg"><img src="{{ url_for('static', filename='zenko.jpg')}}" class="rounded-circle user_img_msg"></div><div class="img_cotainer"> <img src="' + data + '" class="click-zoom"><span class="msg_time">' + str_time + '</span></div></div>';
+							var imageHtml = '<div class="d-flex justify-content-start mb-4">' +
+                    						'<div class="img_cont_msg"><img src="{{ url_for('static', filename='zenko.jpg')}}" class="rounded-circle user_img_msg"></div>' +
+                    						'<div class="img_cotainer">' +
+                    						'<img src="' + data + '" class="click-zoom" >' +
+                    						'<div class="msg_time">' + str_time + '</div>' +
+                    						'</div>' +
+                    						'</div>';
 							$("#messageFormeight").append($.parseHTML(imageHtml));
-        				} else {
-							var botHtml = '<div class="d-flex justify-content-start mb-4"><div class="img_cont_msg"><img src="{{ url_for('static', filename='zenko.jpg')}}" class="rounded-circle user_img_msg"></div><div class="msg_cotainer">' + data + '<span class="msg_time">' + str_time + '</span></div></div>';
-							$("#messageFormeight").append($.parseHTML(botHtml));
+							$("#messageFormeight").scrollTop($("#messageFormeight")[0].scrollHeight);
+
+							$(".click-zoom").on("click", function() {
+                    			var src = $(this).data("src");
+                    			$("#modalImage").attr("src", src);
+                			});
+        				}
+						else if (isCoordsURL(data)) {
+							var coordinates = data.split(",");
+							var mapSettings = "";
+							var mapURL = "https://www.google.com/maps/embed/v1/directions?key=AIzaSyD78MgNc5MMcyprk10otboXox-plQCU-Lw" + coordinates + "&" + mapSettings;
+							var mapHtml = '<div class="d-flex justify-content-start mb-4">' +
+            								'<div class="img_cont_msg">' +
+            								'<img src="{{ url_for('static', filename='zenko.jpg')}}" class="rounded-circle user_img_msg">' +
+            								'</div>' +
+											'<div id="img_cotainer">' +
+											'<iframe width="600px" height="600px" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="' + mapURL + '"></iframe>' +
+											'</div></div>';
+							$("#messageFormeight").append($.parseHTML(mapHtml));
+							$("#messageFormeight").scrollTop($("#messageFormeight")[0].scrollHeight);
 						}
-                        $("#messageFormeight").scrollTop($("#messageFormeight")[0].scrollHeight);
+						else {
+							var botHtml = '<div class="d-flex justify-content-start mb-4">' +
+            								'<div class="img_cont_msg">' +
+            								'<img src="{{ url_for('static', filename='zenko.jpg')}}" class="rounded-circle user_img_msg">' +
+            								'</div>' +
+            								'<div class="msg_cotainer_container">' +
+            								'<div class="msg_cotainer">' + data + '</div>' +
+            								'<div class="msg_time">' + str_time + '</div>' +
+            								'</div>' +
+            								'</div>';
+							$("#messageFormeight").append($.parseHTML(botHtml));
+							$("#messageFormeight").scrollTop($("#messageFormeight")[0].scrollHeight);
+						}
 					});
 					event.preventDefault();
 				});
@@ -87,7 +137,13 @@
     			// Check if the URL ends with common image file extensions
     			return /\.(jpg|jpeg|png|gif)$/i.test(url);
 			}
+			function isCoordsURL(url) {
+				if(url[0]=='&')
+					return 1;
+				return 0;
+
+			}
+
 		</script>
-        
     </body>
 </html>
