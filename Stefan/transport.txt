@@ -1,0 +1,352 @@
+Line number: 101
+Stations are: Neuchatel,Marin
+On friday departs from: University
+On saturday departs from: University
+On sunday departs from: Until 6 p.m.: Pourtalès Hospital
+From 6 p.m.: University
+On friday the schedule is: Every 10 min. from the 1st race to midnight then every 20 min. until 4am
+On saturday the schedule is: Every 10 minutes. from 7 a.m. to midnight then every 20 minutes. until 4am
+On sunday the schedule is: From 11 a.m. to 1:29 p.m. every 10 minutes. From 1:30 p.m. to 7:20 p.m. every 5 minutes. From 7:21 p.m. to 9 p.m. every 10
+minutes. From 9:01 p.m. every 20 minutes. Last departure according to the usual schedule
+Line number: 101
+Stations are: Neuchatel,Cormondreche
+On friday departs from: Lock
+On saturday departs from: Lock
+On sunday departs from: Lock
+On thursday the schedule is: No longer circulating on rue du Seyon from 5:50 p.m.
+On friday the schedule is: Every 10 min. from the 1st race to midnight then every 20 min. until 4am
+On saturday the schedule is: Every 10 minutes. from 7 a.m. to midnight then every 20 minutes. until 4am
+On sunday the schedule is: From 11 a.m. to 1:29 p.m. every 10 minutes. From 1:30 p.m. to 7:20 p.m. every 5 minutes. From 7:21 p.m. to 9 p.m. every 10
+minutes. From 9:01 p.m. every 20 minutes. Last departure according to the usual schedule
+Line number: 102
+Stations are: Neuchatel, Oriette,Serrieres
+On friday departs from: Oriette, platform A
+On saturday departs from: Until 6:40 p.m.: Oriette, platform A
+From 6:50 p.m. to 10:30 p.m.: Regional
+From 10:40 p.m.: Oriette, platform A
+On sunday departs from: Oriette, platform A
+On friday the schedule is: Every 10 minutes from 7 a.m. to midnight then every 20 minutes. until 4am
+On saturday the schedule is: Every 10 minutes from 7 a.m. to midnight then every 20 minutes. until 4am
+On sunday the schedule is: Every 10 minutes from 12 p.m. to 9 p.m. then every 20 minutes. Last departure according to the usual schedule
+Line number: 102
+Stations are: Neuchatel, Terreaux Museum,Temple of Valangines
+On friday departs from: Soil Museum
+On saturday departs from: Soil Museum
+On sunday departs from: Soil Museum
+On friday the schedule is: Every 10 minutes from 7 a.m. to midnight then every 20 minutes. until 4am
+On saturday the schedule is: Every 10 minutes from 7 a.m. to midnight then every 20 minutes. until 4am
+On sunday the schedule is: Every 10 minutes from 12 p.m. to 9 p.m. then every 20 minutes. Last departure according to the usual schedule
+Line number: 106
+Stations are: Neuchatel, Oriette,Station (North), Vallon de l'Ermitage
+On friday departs from: Oriette, platform B
+On saturday departs from: Oriette, platform B
+On sunday departs from: -
+Line number: 106
+Stations are: Neuchatel, Oriette,Station (North), Rocher
+On friday departs from: Oriette, platform B
+On saturday departs from: Oriette, platform B
+On sunday departs from: -
+On friday the schedule is: Every 20 min. from 7 p.m. to midnight
+On saturday the schedule is: Every 15 minutes. from 5:16 a.m. to 8 a.m. and from 10:30 p.m. to midnight. Interrupted from 6:30 p.m. to 10:30 p.m
+On sunday the schedule is: Every 20 minutes. from 6:30 a.m. to 8 p.m.
+Line number: 107
+Stations are: Neuchatel,Hauterive/Marin
+On friday departs from: Soil Museum
+On saturday departs from: Soil Museum
+On sunday departs from: Soil Museum
+On friday the schedule is: Every 10 min. from the 1st race to midnight then every 20 min. until 4 a.m. Last departure for Marin de Terreaux Muséum 7:13
+p.m., then to Hauterive only
+On saturday the schedule is: Every 10 minutes. from 7 a.m. to midnight then every 20 minutes. until 4 a.m. Last departure for Marin de Terreaux Muséum at
+5:59 p.m., then to Hauterive only.
+On sunday the schedule is: Every 5 minutes. from 1:10 p.m. until 9 p.m. then every 20 minutes. Last departure according to the usual schedule (ÿ
+Hauterive)
+Line number: 109
+Stations are: Neuchatel, Terreaux Museum,Trois-Chenes
+On friday departs from: Soil Museum
+On saturday departs from: Soil Museum
+On sunday departs from: Soil Museum
+On friday the schedule is: Every 10 minutes from the first race to midnight then every 20 minutes. until 4am
+On saturday the schedule is: Every 10 minutes from 7 a.m. to midnight then every 20 minutes. until 4am
+On sunday the schedule is: Every 20 minutes. from 9:03 a.m. to 12 p.m. then every 10 minutes from 12 p.m. to 9 p.m. then every 20 min. Last departure
+according to the usual schedule
+Line number: 110
+Stations are: Neuchatel, Universite,Gare (Fun'ambule)
+On friday departs from: University (FUNI)
+On saturday departs from: University (FUNI)
+On sunday departs from: University (FUNI)
+On friday the schedule is: On request up to 1 hour
+On saturday the schedule is: On request up to 1 hour
+On sunday the schedule is: Usual schedule
+Line number: 111
+Stations are: Neuchatel, La Coudre,Chaumont
+On friday departs from: The Sew (FUNI)
+On saturday departs from: The Sew (FUNI)
+On sunday departs from: The Sew (FUNI)
+On friday the schedule is: Races usually by reservation are done automatically
+On saturday the schedule is: Races usually by reservation are done automatically
+On sunday the schedule is: Races usually by reservation are done automatically
+Line number: 120
+Stations are: Neuchatel, Chambrelien,Les Gratte de bise
+On friday departs from: Station (North)
+On saturday departs from: Station (North)
+On sunday departs from: Station (North)
+On friday the schedule is: Usual schedule
+On saturday the schedule is: Usual schedule
+On sunday the schedule is: Usual schedule
+Line number: 120
+Stations are: Colombier, Les Grattes de bise,Montmolillin, Corcelles
+On friday departs from: Colombier, Bas-des-Allees
+On saturday departs from: Colombier, Bas-des-Allees
+On sunday departs from: -
+On friday the schedule is: 8:13 p.m. / 8:43 p.m. / 9:13 p.m. / 9:43 p.m. / 10:13 p.m. / 10:33 p.m. / 10:56 p.m. / 11:31 p.m. / 12:31 a.m. / 1:31 a.m. / 2:31 a.m. / 3:31 a.m. / 4:23
+a.m.
+On saturday the schedule is: 8:13 p.m. / 8:43 p.m. / 9:13 p.m. / 9:43 p.m. / 10:13 p.m. / 10:43 p.m. / 11:13 p.m. / 11:43 p.m. / 12:13 a.m. / 12:43 a.m. / 1:13 a.m. / 1:43 a.m. / 2:13
+a.m. / 2:33 a.m. / 3:33 a.m. / 4:23 a.m.
+On sunday the schedule is: None
+Line number: 121
+Stations are: Neuchatel, University,Swimming pools
+On friday departs from: University
+On saturday departs from: University
+On sunday departs from: -
+On friday the schedule is: Usual schedule. Additional departures at 8:38 p.m. and 8:42 p.m. from University
+On saturday the schedule is:  Usual schedule until 6:50 p.m. then interrupted
+On sunday the schedule is: None
+Line number: 122
+Stations are: Neuchatel, Gare(North),Vauseyon
+On friday departs from: Station (North)
+On saturday departs from: Station (North)
+On sunday departs from: -
+On friday the schedule is: Usual schedule
+On saturday the schedule is: Usual schedule
+On sunday the schedule is: Usual schedule
+Line number: 131
+Stations are: St-Blaise, Enges,Lignieres
+On friday departs from: St-Blaise, center
+On saturday departs from: St-Blaise, center
+On sunday departs from: -
+On friday the schedule is: Every hour from 1:30 a.m. to 4:30 a.m
+On saturday the schedule is: Every hour from 1:30 a.m. to 4:30 a.m
+On sunday the schedule is: Every hour from 1:30 a.m. to 4:30 a.m
+Line number: 150
+Stations are: Neuchâtel,Thielle,Cornaux, Cressier,Le Landeron
+On friday departs from: University
+On saturday departs from: Le LanderonUniversity
+On sunday departs from: -
+On friday the schedule is: Every hour from 1 a.m. to 4 a.m
+On saturday the schedule is: Every hour from 1 a.m. to 4 a.m
+On sunday the schedule is: Every hour from 1 a.m. to 4 a.m
+Line number: 215
+Stations are: Neuchâtel,Boudry(Littorail)
+On friday departs from: Place Pury Littorai
+On saturday departs from: Until 7:26 p.m.: Place Pury Littorail,
+From 7:40 p.m. to 10:30 p.m.: Evole,
+From 10:40 p.m.: Place Pury Littorail
+On sunday departs from: Place Pury Littorai
+On friday the schedule is: Every 10 min. from 4 p.m. to 2:20 a.m. then every 20 minutes. until 4am
+On saturday the schedule is: Every 10 minutes. from 1 p.m. to 2 a.m. then every 20 min. until 4am
+On sunday the schedule is: Every 10 minutes. from 12 p.m. to 8:20 p.m. then every 20 minutes. until 12:20 a.m.
+Line number: 221
+Stations are: Neuchâtel,Fleurier
+On friday departs from: Neuchâtel
+On saturday departs from: Neuchâtel
+On sunday departs from: -
+On friday the schedule is: departures at 2:59 a.m.
+On saturday the schedule is: departures at 2:59 a.m.
+On sunday the schedule is: none
+Line number: 223
+Stations are: Neuchâtel,La Chaux-de-Fonds,Le Locle
+On friday departs from: Neuchâtel
+On saturday departs from: Neuchâtel
+On sunday departs from: -
+On friday the schedule is: departures at 3:11 a.m.
+On saturday the schedule is: departures at 3:11 a.m.
+On sunday the schedule is: none
+Line number: 421
+Stations are: Neuchâtel,Savagnier,Cernier
+On friday departs from: Oriette, platform A
+On saturday departs from: Until 7:02 p.m.: Oriette, platform A.
+From 7:30 p.m. to 10:45 p.m.: Pre-bar.
+From 00:10: Oriette, platform A
+On sunday departs from: Oriette, platform A
+On friday the schedule is: 7:22 p.m. / 7:52 p.m. / 8:22 p.m. / 11:31 p.m. Oriette: 8:00 p.m. / 10:30 p.m. / 1:10 a.m. / 2:10 a.m. / 3:10 a.m. / 4:00 a.m. / 4:10 a.m.
+On saturday the schedule is: 5:21 p.m. / 5:51 p.m. / 6:21 p.m. / 6:51 p.m. / 7:21 p.m. / 7:51 p.m. / 8:21 p.m. / 9:51 p.m. Oriette: 5:02 p.m. / 6:02 p.m. / 7:02 p.m. /
+1:10 a.m. / 2:10 a.m. / 3:10 a.m. / 4:00 a.m. / 4:10 a.m. Prebar : 8:00 p.m. / 8:30 p.m. / 9:00 p.m. / 10:30 p.m
+On sunday the schedule is:  12:21 p.m. / 3:21 p.m. / 4:35 p.m. / 7:51 p.m. Oriette: 11:32 a.m. / 1:02 p.m. / 2:32 p.m. / 4:02 p.m. / 5:32 p.m. / 6:02 p.m. (until
+Savagnier) / 7:02 p.m. / 8:32 p.m. / 10:02 p.m. / 11:02 p.m. / 12:10 a.m
+Line number: 422
+Stations are: Neuchâtel,Cernier,Villiers
+On friday departs from: Oriette, platform A
+On saturday departs from: Until 7:10 p.m.: Oriette, platform A.
+From 7:30 p.m. to 10:10 p.m.: Pre-bar.
+From 10:28 p.m.: Oriette, platform A.
+On sunday departs from: Oriette, platform A
+On friday the schedule is: Every hour from midnight to 4 a.m.
+On saturday the schedule is: 7 p.m. to midnight every 20 minutes. Every hour from midnight to 4 a.m.
+On sunday the schedule is: 7 p.m. to midnight every 20 min. Last departure according to usual schedule
+Line number: 424
+Stations are: Neuchâtel, Boudevilliers, Coffrane,Les Geneveys-sur-Coffrane, Les Hauts-Geneveys ,Cernier
+On friday departs from: Oriette, platform B
+On saturday departs from: Oriette, platform B
+On sunday departs from: Oriette, platform B
+On friday the schedule is: Every hour from midnight to 4 a.m.
+On saturday the schedule is: Every hour from midnight to 4 a.m.
+On sunday the schedule is: Departure at 12:06 a.m
+Line number: 612
+Stations are: Neuchâtel, Bevaix, St-Aubin,Vaumarcus
+On friday departs from: Oriette, platform C
+On saturday departs from: Oriette, platform C
+On sunday departs from: -
+On friday the schedule is: Every hour from midnight to 4 a.m., non-stop between Oriette and Giratoire 3 Communes
+On saturday the schedule is: Every hour from midnight to 4 a.m., non-stop between Oriette and Giratoire 3 Communes
+On sunday the schedule is: Every hour from midnight to 4 a.m., non-stop between Oriette and Giratoire 3 Communes
+Line number: 612
+Stations are: Boudry Littorail, gare,Boudry
+On friday departs from: Boudry Littorail, gare 
+On saturday departs from: Boudry Littorail, gare 
+On sunday departs from: -
+On friday the schedule is: Departure at: 1:38 a.m. / 2:18 a.m. / 2:58 a.m. / 3:38 a.m. / 4:18 a.m. / 4:38 a.m
+On saturday the schedule is: Departure at: 1:38 a.m. / 2:18 a.m. / 2:58 a.m. / 3:38 a.m. / 4:18 a.m. / 4:38 a.m
+On sunday the schedule is: none
+Line number: 613
+Stations are: Areuse,Cortaillod
+On friday departs from: Areuse Littorail, station
+On saturday departs from: Areuse Littorail, station
+On sunday departs from: -
+On friday the schedule is: Every 20 mins. from 12:37 a.m. to 3:57 a.m. then 4:14 a.m. and 4:25 a.m
+On saturday the schedule is: Every 20 mins. from 12:37 a.m. to 3:57 a.m. then 4:14 a.m. and 4:25 a.m
+On sunday the schedule is: none
+Line number: 613
+Stations are: Boudry,Perreux
+On friday departs from: Boudry Littorail, station
+On saturday departs from: Boudry Littorail, station
+On sunday departs from: -
+On friday the schedule is: Departures at: 1:18 a.m. / 1:58 a.m. / 2:38 a.m. / 3:18 a.m. / 3:58 a.m. / 4:38 a.m
+On saturday the schedule is: Departures at: 1:18 a.m. / 1:58 a.m. / 2:38 a.m. / 3:18 a.m. / 3:58 a.m. / 4:38 a.m
+On sunday the schedule is: none
+The line is: 101
+In the direction: Cormondreche
+Starting from: September 21 5:50 p.m.
+Ending on: September 24
+Details: Due to the Harvest Festival, the Croix-du-Marché stop towards Cormondrèche is canceled from Thursday, September 21, 5:50 p.m. to Sunday, September 24, last trip. Meet at the Ecluse stop. Thank you for your understanding and have a good trip on our lines.
+The line is: 101
+In the direction: Marine
+Starting from: September 21 5:50 p.m.
+Ending on: September 24
+Details: Due to the Harvest Festival, the Croix-du-Marché stop towards Marin is canceled from Thursday, September 21, 5:50 p.m. to Sunday, September 24, last trip. Go to the Ecluse stop to take line 106 to Gare (Nord) then Fun'ambule line 110 to Université to transfer to line 101. Thank you for your understanding and have a good trip on our lines.
+The line is: 101
+In the direction: Cormondreche
+Starting from: September 21 5:50 p.m.
+Ending on: September 24
+Details: Due to the Harvest Festival, the Place Pury stop towards Cormondrèche is moved to Thursday from 5:50 p.m. then removed from Friday. From Thursday 5:50 p.m., stop moved: departures from Place Pury, quai C. From Friday first race, stop removed: go to the Oriette stop, platform B (on rue de la Balance) to take line 106 to Ecluse then transfer to line 101.
+The line is: 101
+In the direction: Marine
+Starting from: September 21 5:50 p.m.
+Ending on: September 24
+Details: Due to the Harvest Festival, the Place Pury stop towards Marin is moved to Thursday from 5:50 p.m. then removed from Friday. From Thursday 5:50 p.m., stop moved: departures from Place Pury, quai G. From Friday first race, stop removed: go to the Oriette stop, platform B (on rue de la Balance) to take line 106 to Gare (North) then Fun'ambule line 110 to Université to transship to line 101. During the night, the Fun'ambule only runs until 1:00 a.m. Between 1 a.m. and 4 a.m., you should therefore walk to the Université stop.
+The line is: 102
+In the direction: Serrieres
+Starting from: September 22 12:00 a.m.
+Ending on: September 24
+Details: Due to the Harvest Festival, the Place Pury stop towards Serrières is canceled from Friday September 22, first race to Sunday September 24, last race. Meet at the Oriette stop, platform A (30m from the usual stop).
+The line is: 102
+In the direction: Temple of the Valangines
+Starting from: September 22 12:00 a.m.
+Ending on: September 24
+Details: Due to the Harvest Festival, the Place Pury stop towards Temple des Valangines is canceled from Friday September 22, first race to Sunday September 24, last race. Go to the Oriette stop, platform B (on rue de la Balance) to take line 106 to Terreaux Muséum then transfer to line 102.
+The line is: 106
+In the direction: Hermitage Valley
+Starting from: September 22 12:00 a.m.
+Ending on: September 24
+Details: Due to the Harvest Festival, the Place Pury stop towards Vallon de l'Ermitage is canceled from Friday September 22, first race to Sunday September 24, last race. Meet at the Oriette stop, platform B (on rue de la Balance). Thank you for your understanding and have a good trip on our lines.
+The line is: 107
+In the direction: Hauterive
+Starting from: September 22 12:00 a.m.
+Ending on: September 24
+Details: Due to the Harvest Festival, stop at Place Pury towards Hauterive | Marin is deleted from Friday September 22 first race to Sunday September 24 last race. Go to the Oriette stop, platform B (on rue de la Balance) to take line 106 to Terreaux Muséum then transfer to line 107.
+The line is: 109
+In the direction: Trois-Chenes
+Starting from: September 22 12:00 a.m.
+Ending on: September 24
+Details: Due to the Harvest Festival, the Place Pury stop towards Trois-Chênes is canceled from Friday September 22, first race to Sunday September 24, last race. Go to the Oriette stop, platform B (on rue de la Balance) to take line 106 to Terreaux Muséum then transfer to line 109. 
+The line is: 121
+In the direction: Swimming Pools
+Starting from: September 22 12:00 a.m.
+Ending on: September 24
+Details: Due to the Harvest Festival, the Place Pury stop towards Piscines is canceled from Friday September 22, first race to Sunday September 24, last race.  Go to the Oriette stop, platform B (on rue de la Balance) to take line 106 to Gare (Nord) then Fun'ambule ine 110 to University to transfer to line 121.
+The line is: 107
+In the direction: Marine
+Starting from: September 22 12:00 a.m.
+Ending on: September 24
+Details: Due to the Harvest Festival, stop at Place Pury towards Hauterive | Marin is deleted from Friday September 22 first race to Sunday September 24 last race. Go to the Oriette stop, platform B (on rue de la Balance) to take line 106 to Terreaux Muséum then transfer to line 107.
+The line is: 421
+In the direction: Savagnier
+Starting from: September 22 12:00 a.m.
+Ending on: September 24
+Details: Due to the Harvest Festival, stop at Place
+The line is: Pury towards Savagnier | Cernier is deleted from Friday September 22 first race to Sunday September 24 last race. Meet at the Oriette stop, platform A (on rue de la Promenade-Noire).
+In the direction: 421
+Starting from: Cernier September 22
+Ending on: 12:00 a.m.
+Details: September 24
+The line is: Due to the Harvest Festival, stop at Place
+In the direction: Pury towards Savagnier | Cernier is deleted from Friday September 22 first race to Sunday September 24 last race. Meet at the Oriette stop, platform A (on rue de la Promenade-Noire).
+Starting from: 422 Villiers
+Ending on: September 22
+Details: 12:00 a.m.
+The line is: September 24
+In the direction: Due to the Harvest Festival, the Place Pury stop towards Villiers is canceled from Friday September 22, first race to Sunday September 24, last race. Meet at the Oriette stop, platform A (on rue de la Promenade-Noire).
+Starting from: 102 Serrieres
+Ending on: September 22
+Details: 12:00 a.m.
+The line is: September 24
+In the direction: Due to the Harvest Festival, the Terreaux Muséum stop towards Serrières is canceled from Friday September 22, first race to Sunday September 24, last race. Go to the Terreaux Muséum stop to take line 106 to Oriette to transfer to line 102 departure from platform A (30m from the usual stop).
+Starting from: 101 Station (North)
+Ending on: September 23
+Details: 12:00 a.m.
+The line is: September 25
+In the direction: Due to the Harvest Festival, the St-Honoré stop towards Gare (North) is canceled from Friday September 22, first race to Sunday September 24, last race. Meet at the Terreaux Muséum stop.
+Starting from: 102 Station (North)
+Ending on: September 23
+Details: 12:00 a.m.
+The line is: September 25
+In the direction: Due to the Harvest Festival, the St-Honoré stop towards Gare (North) is canceled from Friday September 22, first race to Sunday September 24, last race. Meet at the Terreaux Muséum stop.
+Starting from: 106 Station (North)
+Ending on: September 23
+Details: 12:00 a.m.
+The line is: September 25
+In the direction: Due to the Harvest Festival, the St-Honoré stop towards Gare (North) is canceled from Friday September 22, first race to Sunday September 24, last race. Meet at the Terreaux Muséum stop.
+Starting from: 107 Station (North)
+Ending on: September 23
+Details: 12:00 a.m.
+The line is: September 25
+In the direction: Due to the Harvest Festival, the St-Honoré stop towards Gare (North) is canceled from Friday September 22, first race to Sunday September 24, last race. Meet at the Terreaux Muséum stop.
+Starting from: 109 Station (North)
+Ending on: September 23
+Details: 12:00 a.m.
+The line is: September 25
+In the direction: Due to the Harvest Festival, the St-Honoré stop towards Gare (North) is canceled from Friday September 22, first race to Sunday September 24, last race. Meet at the Terreaux Muséum stop.
+Starting from: 421 Station (North)
+Ending on: September 23
+Details: 12:00 a.m.
+The line is: September 25
+In the direction: Due to the Harvest Festival, the St-Honoré stop towards Gare (North) is canceled from Friday September 22, first race to Sunday September 24, last race. Meet at the Terreaux Muséum stop.
+Starting from: 101 Cormondreche
+Ending on: September 23
+Details: 12:00 a.m.
+The line is: September 25
+In the direction: Due to the Harvest Festival, the Numa-Droz stop towards Cormondrèche is canceled from Friday September 22, first race to Sunday September 24, last race. Meet at the Terreaux Muséum stop.
+Starting from: 101 Cormondreche
+Ending on: September 23
+Details: 12:00 a.m.
+The line is: September 25
+In the direction: Due to the Harvest Festival, the shutdown Jardin Anglais direction Cormondrèche is canceled from Friday September 22 first race to last Sunday September 24 race. Go to the Université stop to take Fun'ambule line 110 to the station then transfer to line 107 towards Terreaux Muséum which is merged with line 101 towards Cormondrèche.
+Starting from: 101 Marine and Swimming Pools
+Ending on: September 22
+Details: 12:00 a.m.
+The line is: September 24
+In the direction: Due to the Harvest Festival, the Poste direction Marin stop is canceled from Friday, September 22, first race to Sunday, September 24, last race. Meet at the University stop.
+Starting from: 121 Marine and Swimming Pools
+Ending on: September 22
+Details: 12:00 a.m.
+The line is: September 24
+In the direction: Due to the Harvest Festival, the Poste direction Marin stop is canceled from Friday, September 22, first race to Sunday, September 24, last race. Meet at the University stop.

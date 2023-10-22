@@ -1,0 +1,12 @@
+tiktoken
+bs4
+openai
+langchain
+jq
+geojson
+geopandas
+pandas
+flask
+transformers
+torch
+geojson

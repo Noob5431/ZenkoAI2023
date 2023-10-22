@@ -1,0 +1,621 @@
+[
+{
+    "number": 101,
+    "start": "Neuchatel",
+    "end": "Marin",
+    "departures": {
+      "friday": "University",
+      "saturday": "University",
+      "sunday": "Until 6 p.m.: Pourtalès Hospital\nFrom 6 p.m.: University"
+    },
+    "schedules": {
+      "0": {
+        "day": "thursday",
+        "details": "No longer circulating on rue du Seyon from 5:50 p.m."
+      },
+      "1": {
+        "day": "VE",
+        "details": "Every 10 min. from the 1st race to midnight then every 20 min. until 4am"
+      },
+      "1 (copy)": {
+        "day": "SA",
+        "details": "Every 10 minutes. from 7 a.m. to midnight then every 20 minutes. until 4am"
+      },
+      "1 (copy 2)": {
+        "day": "DI",
+        "details": "From 11 a.m. to 1:29 p.m. every 10 minutes. From 1:30 p.m. to 7:20 p.m. every 5 minutes. From 7:21 p.m. to 9 p.m. every 10\nminutes. From 9:01 p.m. every 20 minutes. Last departure according to the usual schedule"
+      }
+    }
+},
+{
+    "number": 101,
+    "start": "Neuchatel",
+    "end": "Cormondreche",
+    "departures": {
+      "friday": "Lock",
+      "saturday": "Lock",
+      "sunday": "Lock"
+    },
+    "schedules": {
+        "0": {
+            "day": "thursday",
+            "details": "No longer circulating on rue du Seyon from 5:50 p.m."
+          },
+          "1": {
+            "day": "VE",
+            "details": "Every 10 min. from the 1st race to midnight then every 20 min. until 4am"
+          },
+          "1 (copy)": {
+            "day": "SA",
+            "details": "Every 10 minutes. from 7 a.m. to midnight then every 20 minutes. until 4am"
+          },
+          "1 (copy 2)": {
+            "day": "DI",
+            "details": "From 11 a.m. to 1:29 p.m. every 10 minutes. From 1:30 p.m. to 7:20 p.m. every 5 minutes. From 7:21 p.m. to 9 p.m. every 10\nminutes. From 9:01 p.m. every 20 minutes. Last departure according to the usual schedule"
+          }
+    }
+  },
+  {
+    "number": 102,
+    "start": "Neuchatel, Oriette",
+    "end": "Serrieres",
+    "departures": {
+      "friday": "Oriette, platform A",
+      "saturday": "Until 6:40 p.m.: Oriette, platform A\nFrom 6:50 p.m. to 10:30 p.m.: Regional\nFrom 10:40 p.m.: Oriette, platform A",
+      "sunday": "Oriette, platform A"
+    },
+    "schedules": {
+      "0": {
+        "day": "VE",
+        "details": "Every 10 minutes from 7 a.m. to midnight then every 20 minutes. until 4am"
+      },
+      "1": {
+        "day": "SA",
+        "details": "Every 10 minutes from 7 a.m. to midnight then every 20 minutes. until 4am"
+      },
+      "1 (copy)": {
+        "day": "DI",
+        "details": "Every 10 minutes from 12 p.m. to 9 p.m. then every 20 minutes. Last departure according to the usual schedule"
+      }
+    }
+  },
+  {
+    "number": 102,
+    "start": "Neuchatel, Terreaux Museum",
+    "end": "Temple of Valangines",
+    "departures": {
+      "friday": "Soil Museum",
+      "saturday": "Soil Museum",
+      "sunday": "Soil Museum"
+    },
+    "schedules": {
+      "0": {
+        "day": "VE",
+        "details": "Every 10 minutes from 7 a.m. to midnight then every 20 minutes. until 4am"
+      },
+      "1": {
+        "day": "SA",
+        "details": "Every 10 minutes from 7 a.m. to midnight then every 20 minutes. until 4am"
+      },
+      "1 (copy)": {
+        "day": "DI",
+        "details": "Every 10 minutes from 12 p.m. to 9 p.m. then every 20 minutes. Last departure according to the usual schedule"
+      }
+    }
+  },
+  {
+    "number": 106,
+    "start": "Neuchatel, Oriette",
+    "end": "Station (North), Vallon de l'Ermitage",
+    "departures": {
+      "friday": "Oriette, platform B",
+      "saturday": "Oriette, platform B",
+      "sunday": "-"
+    },
+    "schedules" :{}
+  },
+{
+  "number": 106,
+  "start": "Neuchatel, Oriette",
+  "end": "Station (North), Rocher",
+  "departures": {
+    "friday": "Oriette, platform B",
+    "saturday": "Oriette, platform B",
+    "sunday": "-"
+  },
+  "schedules": {
+    "0": {
+      "day": "VE",
+      "details": "Every 20 min. from 7 p.m. to midnight"
+    },
+    "1": {
+      "day": "SA",
+      "details": "Every 15 minutes. from 5:16 a.m. to 8 a.m. and from 10:30 p.m. to midnight. Interrupted from 6:30 p.m. to 10:30 p.m"
+    },
+    "1 (copy)": {
+      "day": "DI",
+      "details": "Every 20 minutes. from 6:30 a.m. to 8 p.m."
+    }
+  }
+},
+{
+    "number": 107,
+    "start": "Neuchatel",
+    "end": "Hauterive/Marin",
+    "departures": {
+      "friday": "Soil Museum",
+      "saturday": "Soil Museum",
+      "sunday": "Soil Museum"
+    },
+    "schedules": {
+      "0": {
+        "day": "VE",
+        "details": "Every 10 min. from the 1st race to midnight then every 20 min. until 4 a.m. Last departure for Marin de Terreaux Muséum 7:13\np.m., then to Hauterive only"
+      },
+      "1": {
+        "day": "SA",
+        "details": "Every 10 minutes. from 7 a.m. to midnight then every 20 minutes. until 4 a.m. Last departure for Marin de Terreaux Muséum at\n5:59 p.m., then to Hauterive only."
+      },
+      "1 (copy)": {
+        "day": "DI",
+        "details": "Every 5 minutes. from 1:10 p.m. until 9 p.m. then every 20 minutes. Last departure according to the usual schedule (ÿ\nHauterive)"
+      }
+    }
+  },
+  {
+    "number": 109,
+    "start": "Neuchatel, Terreaux Museum",
+    "end": "Trois-Chenes",
+    "departures": {
+      "friday": "Soil Museum",
+      "saturday": "Soil Museum",
+      "sunday": "Soil Museum"
+    },
+    "schedules": {
+      "0": {
+        "day": "VE",
+        "details": "Every 10 minutes from the first race to midnight then every 20 minutes. until 4am"
+      },
+      "1": {
+        "day": "SA",
+        "details": "Every 10 minutes from 7 a.m. to midnight then every 20 minutes. until 4am"
+      },
+      "1 (copy)": {
+        "day": "DI",
+        "details": "Every 20 minutes. from 9:03 a.m. to 12 p.m. then every 10 minutes from 12 p.m. to 9 p.m. then every 20 min. Last departure\naccording to the usual schedule"
+      }
+    }
+  },
+  {
+    "number": 110,
+    "start": "Neuchatel, Universite",
+    "end": "Gare (Fun'ambule)",
+    "departures": {
+      "friday": "University (FUNI)",
+      "saturday": "University (FUNI)",
+      "sunday": "University (FUNI)"
+    },
+    "schedules": {
+      "0": {
+        "day": "VE",
+        "details": "On request up to 1 hour"
+      },
+      "1": {
+        "day": "SA",
+        "details": "On request up to 1 hour"
+      },
+      "1 (copy)": {
+        "day": "DI",
+        "details": "Usual schedule"
+      }
+    }
+  },
+  {
+    "number": 111,
+    "start": "Neuchatel, La Coudre",
+    "end": "Chaumont",
+    "departures": {
+      "friday": "The Sew (FUNI)",
+      "saturday": "The Sew (FUNI)",
+      "sunday": "The Sew (FUNI)"
+    },
+    "schedules": {
+      "0": {
+        "day": "VE",
+        "details": "Races usually by reservation are done automatically"
+      },
+      "1": {
+        "day": "SA",
+        "details": "Races usually by reservation are done automatically"
+      },
+      "1 (copy)": {
+        "day": "DI",
+        "details": "Races usually by reservation are done automatically"
+      }
+    }
+  },
+  {
+    "number": 120,
+    "start": "Neuchatel, Chambrelien",
+    "end": "Les Gratte de bise",
+    "departures": {
+      "friday": "Station (North)",
+      "saturday": "Station (North)",
+      "sunday": "Station (North)"
+    },
+    "schedules": {
+      "0": {
+        "day": "VE",
+        "details": "Usual schedule"
+      },
+      "1": {
+        "day": "SA",
+        "details": "Usual schedule"
+      },
+      "1 (copy)": {
+        "day": "DI",
+        "details": "Usual schedule"
+      }
+    }
+  },
+  {
+    "number": 120,
+    "start": "Colombier, Les Grattes de bise",
+    "end": "Montmolillin, Corcelles",
+    "departures": {
+      "friday": "Colombier, Bas-des-Allees",
+      "saturday": "Colombier, Bas-des-Allees",
+      "sunday": "-"
+    },
+    "schedules": {
+      "0": {
+        "day": "VE",
+        "details": "8:13 p.m. / 8:43 p.m. / 9:13 p.m. / 9:43 p.m. / 10:13 p.m. / 10:33 p.m. / 10:56 p.m. / 11:31 p.m. / 12:31 a.m. / 1:31 a.m. / 2:31 a.m. / 3:31 a.m. / 4:23\na.m."
+      },
+      "1": {
+        "day": "SA",
+        "details": "8:13 p.m. / 8:43 p.m. / 9:13 p.m. / 9:43 p.m. / 10:13 p.m. / 10:43 p.m. / 11:13 p.m. / 11:43 p.m. / 12:13 a.m. / 12:43 a.m. / 1:13 a.m. / 1:43 a.m. / 2:13\na.m. / 2:33 a.m. / 3:33 a.m. / 4:23 a.m."
+      },
+      "1 (copy)": {
+        "day": "DI",
+        "details": "None"
+      }
+    }
+  },
+  {
+    "number": 121,
+    "start": "Neuchatel, University",
+    "end": "Swimming pools",
+    "departures": {
+      "friday": "University",
+      "saturday": "University",
+      "sunday": "-"
+    },
+    "schedules": {
+      "0": {
+        "day": "VE",
+        "details": "Usual schedule. Additional departures at 8:38 p.m. and 8:42 p.m. from University"
+      },
+      "1": {
+        "day": "SA",
+        "details": " Usual schedule until 6:50 p.m. then interrupted"
+      },
+      "1 (copy)": {
+        "day": "DI",
+        "details": "None"
+      }
+    }
+  },
+  {
+    "number": 122,
+    "start": "Neuchatel, Gare(North)",
+    "end": "Vauseyon",
+    "departures": {
+      "friday": "Station (North)",
+      "saturday": "Station (North)",
+      "sunday": "-"
+    },
+    "schedules": {
+      "0": {
+        "day": "VE",
+        "details": "Usual schedule"
+      },
+      "1": {
+        "day": "SA",
+        "details": "Usual schedule"
+      },
+      "1 (copy)": {
+        "day": "DI",
+        "details": "Usual schedule"
+      }
+    }
+  },
+  {
+    "number": 131,
+    "start": "St-Blaise, Enges",
+    "end": "Lignieres",
+    "departures": {
+      "friday": "St-Blaise, center",
+      "saturday": "St-Blaise, center",
+      "sunday": "-"
+    },
+    "schedules": {
+      "0": {
+        "day": "VE",
+        "details": "Every hour from 1:30 a.m. to 4:30 a.m"
+      },
+      "1": {
+        "day": "SA",
+        "details": "Every hour from 1:30 a.m. to 4:30 a.m"
+      },
+      "1 (copy)": {
+        "day": "DI",
+        "details": "Every hour from 1:30 a.m. to 4:30 a.m"
+      }
+    }
+  },
+  {
+    "number": 150,
+    "start": "Neuchâtel,Thielle,Cornaux, Cressier",
+    "end": "Le Landeron",
+    "departures": {
+      "friday": "University",
+      "saturday": "Le LanderonUniversity",
+      "sunday": "-"
+    },
+    "schedules": {
+      "0": {
+        "day": "VE",
+        "details": "Every hour from 1 a.m. to 4 a.m"
+      },
+      "1": {
+        "day": "SA",
+        "details": "Every hour from 1 a.m. to 4 a.m"
+      },
+      "1 (copy)": {
+        "day": "DI",
+        "details": "Every hour from 1 a.m. to 4 a.m"
+      }
+    }
+  },
+  {
+    "number": 215,
+    "start": "Neuchâtel",
+    "end": "Boudry(Littorail)",
+    "departures": {
+      "friday": "Place Pury Littorai",
+      "saturday": "Until 7:26 p.m.: Place Pury Littorail,\nFrom 7:40 p.m. to 10:30 p.m.: Evole,\nFrom 10:40 p.m.: Place Pury Littorail",
+      "sunday": "Place Pury Littorai"
+    },
+    "schedules": {
+      "0": {
+        "day": "VE",
+        "details": "Every 10 min. from 4 p.m. to 2:20 a.m. then every 20 minutes. until 4am"
+      },
+      "1": {
+        "day": "SA",
+        "details": "Every 10 minutes. from 1 p.m. to 2 a.m. then every 20 min. until 4am"
+      },
+      "1 (copy)": {
+        "day": "DI",
+        "details": "Every 10 minutes. from 12 p.m. to 8:20 p.m. then every 20 minutes. until 12:20 a.m."
+      }
+    }
+  },
+  {
+    "number": 221,
+    "start": "Neuchâtel",
+    "end": "Fleurier",
+    "departures": {
+      "friday": "Neuchâtel",
+      "saturday": "Neuchâtel",
+      "sunday": "-"
+    },
+    "schedules": {
+      "0": {
+        "day": "VE",
+        "details": "departures at 2:59 a.m."
+      },
+      "1": {
+        "day": "SA",
+        "details": "departures at 2:59 a.m."
+      },
+      "1 (copy)": {
+        "day": "DI",
+        "details": "none"
+      }
+    }
+  },
+  {
+    "number": 223,
+    "start": "Neuchâtel,La Chaux-de-Fonds",
+    "end": "Le Locle",
+    "departures": {
+      "friday": "Neuchâtel",
+      "saturday": "Neuchâtel",
+      "sunday": "-"
+    },
+    "schedules": {
+      "0": {
+        "day": "VE",
+        "details": "departures at 3:11 a.m."
+      },
+      "1": {
+        "day": "SA",
+        "details": "departures at 3:11 a.m."
+      },
+      "1 (copy)": {
+        "day": "DI",
+        "details": "none"
+      }
+    }
+  },
+  {
+    "number": 421,
+    "start": "Neuchâtel,Savagnier",
+    "end": "Cernier",
+    "departures": {
+      "friday": "Oriette, platform A",
+      "saturday": "Until 7:02 p.m.: Oriette, platform A.\nFrom 7:30 p.m. to 10:45 p.m.: Pre-bar.\nFrom 00:10: Oriette, platform A",
+      "sunday": "Oriette, platform A"
+    },
+    "schedules": {
+      "0": {
+        "day": "VE",
+        "details": "7:22 p.m. / 7:52 p.m. / 8:22 p.m. / 11:31 p.m. Oriette: 8:00 p.m. / 10:30 p.m. / 1:10 a.m. / 2:10 a.m. / 3:10 a.m. / 4:00 a.m. / 4:10 a.m."
+      },
+      "1": {
+        "day": "SA",
+        "details": "5:21 p.m. / 5:51 p.m. / 6:21 p.m. / 6:51 p.m. / 7:21 p.m. / 7:51 p.m. / 8:21 p.m. / 9:51 p.m. Oriette: 5:02 p.m. / 6:02 p.m. / 7:02 p.m. /\n1:10 a.m. / 2:10 a.m. / 3:10 a.m. / 4:00 a.m. / 4:10 a.m. Prebar : 8:00 p.m. / 8:30 p.m. / 9:00 p.m. / 10:30 p.m"
+      },
+      "1 (copy)": {
+        "day": "DI",
+        "details": " 12:21 p.m. / 3:21 p.m. / 4:35 p.m. / 7:51 p.m. Oriette: 11:32 a.m. / 1:02 p.m. / 2:32 p.m. / 4:02 p.m. / 5:32 p.m. / 6:02 p.m. (until\nSavagnier) / 7:02 p.m. / 8:32 p.m. / 10:02 p.m. / 11:02 p.m. / 12:10 a.m"
+      }
+    }
+  },
+  {
+    "number": 422,
+    "start": "Neuchâtel,Cernier",
+    "end": "Villiers",
+    "departures": {
+      "friday": "Oriette, platform A",
+      "saturday": "Until 7:10 p.m.: Oriette, platform A.\nFrom 7:30 p.m. to 10:10 p.m.: Pre-bar.\nFrom 10:28 p.m.: Oriette, platform A.",
+      "sunday": "Oriette, platform A"
+    },
+    "schedules": {
+      "0": {
+        "day": "VE",
+        "details": "Every hour from midnight to 4 a.m."
+      },
+      "1": {
+        "day": "SA",
+        "details": "7 p.m. to midnight every 20 minutes. Every hour from midnight to 4 a.m."
+      },
+      "1 (copy)": {
+        "day": "DI",
+        "details": "7 p.m. to midnight every 20 min. Last departure according to usual schedule"
+      }
+    }
+  },
+  {
+    "number": 424,
+    "start": "Neuchâtel, Boudevilliers, Coffrane,Les Geneveys-sur-Coffrane, Les Hauts-Geneveys ",
+    "end": "Cernier",
+    "departures": {
+      "friday": "Oriette, platform B",
+      "saturday": "Oriette, platform B",
+      "sunday": "Oriette, platform B"
+    },
+    "schedules": {
+      "0": {
+        "day": "VE",
+        "details": "Every hour from midnight to 4 a.m."
+      },
+      "1": {
+        "day": "SA",
+        "details": "Every hour from midnight to 4 a.m."
+      },
+      "1 (copy)": {
+        "day": "DI",
+        "details": "Departure at 12:06 a.m"
+      }
+    }
+  },
+  {
+    "number": 612,
+    "start": "Neuchâtel, Bevaix, St-Aubin",
+    "end": "Vaumarcus",
+    "departures": {
+      "friday": "Oriette, platform C",
+      "saturday": "Oriette, platform C",
+      "sunday": "-"
+    },
+    "schedules": {
+      "0": {
+        "day": "VE",
+        "details": "Every hour from midnight to 4 a.m., non-stop between Oriette and Giratoire 3 Communes"
+      },
+      "1": {
+        "day": "SA",
+        "details": "Every hour from midnight to 4 a.m., non-stop between Oriette and Giratoire 3 Communes"
+      },
+      "1 (copy)": {
+        "day": "DI",
+        "details": "Every hour from midnight to 4 a.m., non-stop between Oriette and Giratoire 3 Communes"
+      }
+    }
+  },
+  {
+    "number": 612,
+    "start": "Boudry Littorail, gare",
+    "end": "Boudry",
+    "departures": {
+      "friday": "Boudry Littorail, gare ",
+      "saturday": "Boudry Littorail, gare ",
+      "sunday": "-"
+    },
+    "schedules": {
+      "0": {
+        "day": "VE",
+        "details": "Departure at: 1:38 a.m. / 2:18 a.m. / 2:58 a.m. / 3:38 a.m. / 4:18 a.m. / 4:38 a.m"
+      },
+      "1": {
+        "day": "SA",
+        "details": "Departure at: 1:38 a.m. / 2:18 a.m. / 2:58 a.m. / 3:38 a.m. / 4:18 a.m. / 4:38 a.m"
+      },
+      "1 (copy)": {
+        "day": "DI",
+        "details": "none"
+      }
+    }
+  },
+  {
+    "number": 613,
+    "start": "Areuse",
+    "end": "Cortaillod",
+    "departures": {
+      "friday": "Areuse Littorail, station",
+      "saturday": "Areuse Littorail, station",
+      "sunday": "-"
+    },
+    "schedules": {
+      "0": {
+        "day": "VE",
+        "details": "Every 20 mins. from 12:37 a.m. to 3:57 a.m. then 4:14 a.m. and 4:25 a.m"
+      },
+      "1": {
+        "day": "SA",
+        "details": "Every 20 mins. from 12:37 a.m. to 3:57 a.m. then 4:14 a.m. and 4:25 a.m"
+      },
+      "1 (copy)": {
+        "day": "DI",
+        "details": "none"
+      }
+    }
+  },
+  {
+    "number": 613,
+    "start": "Boudry",
+    "end": "Perreux",
+    "departures": {
+      "friday": "Boudry Littorail, station",
+      "saturday": "Boudry Littorail, station",
+      "sunday": "-"
+    },
+    "schedules": {
+      "0": {
+        "day": "VE",
+        "details": "Departures at: 1:18 a.m. / 1:58 a.m. / 2:38 a.m. / 3:18 a.m. / 3:58 a.m. / 4:38 a.m"
+      },
+      "1": {
+        "day": "SA",
+        "details": "Departures at: 1:18 a.m. / 1:58 a.m. / 2:38 a.m. / 3:18 a.m. / 3:58 a.m. / 4:38 a.m"
+      },
+      "1 (copy)": {
+        "day": "DI",
+        "details": "none"
+      }
+    }
+  }
+]
