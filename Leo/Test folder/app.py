@@ -35,7 +35,7 @@ def get_Chat_response(text):
 
         # generated a response while limiting the total chat history to 1000 tokens, 
         chat_history_ids = model.generate(bot_input_ids, max_length=1000, pad_token_id=tokenizer.eos_token_id)
-
+        
         # pretty print last ouput tokens from bot
         return tokenizer.decode(chat_history_ids[:, bot_input_ids.shape[-1]:][0], skip_special_tokens=True)
         # return "https://www.simplilearn.com/ice9/free_resources_article_thumb/Advantages_and_Disadvantages_of_artificial_intelligence.jpg"
